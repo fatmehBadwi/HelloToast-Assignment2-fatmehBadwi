@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ass2</string>
+    <string name="toast">Toast</string>
+    <string name="zero">Zero</string>
+    <string name="count">Count</string>
+    <string name="num">0</string>
+</resources>
